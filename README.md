@@ -15,6 +15,8 @@ In essence, this repository is designed to provide a comprehensive learning expe
 hello world
 ```
 
+> making a change within the branch1 a subbranch of rebase
+
 ## How to use this repo
 
 [GitHub CLI](#github-cli) first introduces the commands and is a collection of tasks divided based on commands and levels.

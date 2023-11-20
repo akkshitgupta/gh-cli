@@ -16,6 +16,7 @@ hello world
 ```
 
 > making a change within the branch1 a subbranch of rebase
+> making a change within the branch2 a subbranch of rebase
 
 ## How to use this repo
 

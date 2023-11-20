@@ -9,6 +9,11 @@ In essence, this repository is designed to provide a comprehensive learning expe
 ## Installation of GitHub CLI
 
 [Click](https://github.com/cli/cli#installation) to install the GitHub CLI on your preferred local machine to execute the `gh` commands on the terminal just like `node`, `git`, etc
+`hello this is being done to test the rebase feature of the git`
+
+```
+hello world
+```
 
 ## How to use this repo
 
